@@ -1,5 +1,5 @@
 ### Welcome to my humble git.
-I am an engineering student in France, I specialize in Neural Networks.
+I am a Machine Learning Research Engineer, All Neural Networks enthusiast.
 I am on git to share sideprojects.
 ___
 I strive to create ML powered tools to help scientists and professionnals around the world.
